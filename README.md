@@ -5,7 +5,7 @@ Although this project can be modified for any league supported by the [Api-Footb
 ![Table showing NL 2023/24 forecasts as of 11/09/2023](/images/national_league_table.jpg "Table showing NL 2023/24 forecasts as of 11/09/2023")
 
 Furthermore, there is code to produce a plot of point distributions:
-![Table showing point distributions of NL 2023/24 as of 11/09/2023](/images/national_league.jpg "Table showing point distributions of NL 2023/24 as of 11/09/2023")
+![Table showing point distributions of NL 2023/24 as of 11/09/2023](/images/national_league.png "Table showing point distributions of NL 2023/24 as of 11/09/2023")
 
 ## Setup
 * Install the necessary modules in requirements.txt
