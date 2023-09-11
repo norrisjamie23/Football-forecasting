@@ -1,4 +1,4 @@
-# Football-forecasting
+# National League 2023/24 Predictions
 This project allows you to forecast the rest of a league season in Python/NumPy ⚽️
 
 Although this project can be modified for any league supported by the [Api-Football](https://www.api-football.com) API, it is currently setup to forecast the remainder of the 2023/24 National League season. After simulating, you can produce a table like so:
