@@ -1,0 +1,31 @@
+.env
+
+# Ignore Python runtime files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# Ignore environment files
+.env
+
+# Ignore build and distribution files
+build/
+dist/
+*.egg
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore logs
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS specific files
+.DS_Store
