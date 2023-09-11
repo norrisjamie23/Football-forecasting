@@ -160,7 +160,6 @@ class Season:
         all_teams_df = pd.DataFrame(df_list, columns=['Team', 'Points', 'GF', 'GA', 'ELO'])
 
         # Update DataFrame based on current league standings
-        print(standings)
         for team in standings[0]['league']['standings'][0]:
             team_name = team['team']['name']
             all_teams_df.loc[all_teams_df.Team == team_name, 'Points'] = team['points']
